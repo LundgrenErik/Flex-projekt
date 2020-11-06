@@ -3,6 +3,7 @@
 const int ledPin = 3;
 const int flexPin = A0;
 
+
 int value;
 
 void setup() {
